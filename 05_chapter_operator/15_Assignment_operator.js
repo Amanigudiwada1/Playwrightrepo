@@ -1,7 +1,7 @@
 //  Assignment Operators
 
 let x = 10;
-x = "PrrammodDutta";
+x = "Amani";
 console.log(x);
 
 
@@ -13,4 +13,4 @@ console.log(x1);
 
 x *= 2;        // x = x * 2 → 24
 x /= 4;        // x = x / 4 → 6
-x %= 4; 
+x %= 4; 1
