@@ -1,5 +1,5 @@
 let a = 20;// number is valid 
-console.log(a);//: is not mandatory to use in js
+console.log(a);//; is not mandatory to use in js
 
 // Rules of Identifiers
 var $ = 10;//$ symbol as var is valid

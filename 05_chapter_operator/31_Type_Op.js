@@ -9,4 +9,4 @@ console.log(typeof 33.3);//float--> number
 console.log(typeof []);//object
 
 // what ever we given in double quotes it will take it as the string
-// for numbers if it is int or float no need to mention in quotess
+// for numbers if it is int or float no need to mention in quotescommit 

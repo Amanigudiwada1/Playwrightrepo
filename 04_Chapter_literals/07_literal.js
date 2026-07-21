@@ -6,7 +6,7 @@ let nullValue = null; // This is a null literal assigned to the variable 'nullVa
 let undefinedValue; // This variable is declared but not assigned, so it has the value 'undefined'.
 let pi2 = 3; // numeric literal 
 
-// Numric Literal - Numeric
+// Numeric Literal - Numeric
 // 1. int 
 // 2. float
 
