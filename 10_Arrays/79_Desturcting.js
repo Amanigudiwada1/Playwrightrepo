@@ -23,3 +23,6 @@ console.log(thirdOnly); // 30
 let p = 1, q = 2;
 [p, q] = [q, p];
 console.log(p, q); // 2 1
+let i;
+console.log(i);
+
