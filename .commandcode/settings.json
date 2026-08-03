@@ -3,7 +3,9 @@
     "allow": [
       "Shell(git:*)",
       "Shell(git commit -F - <<'EOF' Added loops chapter examples (54-64), arrays chapter, and IQ notes Includes while, for, do-while, nested for loops with increment/decrement and comparison examples, along with the arrays chapter and IQ notes. Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
-      "Shell(git add -A && git commit -F - <<'EOF' Add new arrays chapter examples (72-79) Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
+      "Shell(git add -A && git commit -F - <<'EOF' Add new arrays chapter examples (72-79) Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
+      "Shell(git status --porcelain && echo \"---\" && dir \"10_Arrays/80_practice\" 2>nul && echo \"---\" && dir \"11_Functions\" 2>nul)",
+      "Shell(dir:*)"
     ],
     "deny": [],
     "defaultMode": "default"
