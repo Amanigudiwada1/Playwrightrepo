@@ -30,3 +30,7 @@ console.log(arr);
 
 arr.splice(1, 2, 10, 20);
 console.log(arr);
+
+
+const key = [1,2,3];
+console.log(key.push(4));//4
